@@ -1,0 +1,6 @@
+http://www.quantshare.com/sa-43-10-ways-to-download-historical-stock-quotes-data-for-free
+
+ichart.finance.yahoo.com/table.csv?d=10&e=17&f=2016&g=d&a=7&b=19&c=2016&ignore=.csv&s=mu
+
+
+https://github.com/royr2/StockPriceAnalytics
