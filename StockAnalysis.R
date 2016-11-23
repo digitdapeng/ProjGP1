@@ -1,4 +1,4 @@
-# stock script
+# stock script 
 rm(list=ls())
 
 options(digits=2)
